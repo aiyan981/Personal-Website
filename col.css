@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+
+}
+
+.topp {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+
+}
+
+.mids{
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+
+}
+
+.bot {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+}
